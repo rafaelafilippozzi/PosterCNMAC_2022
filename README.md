@@ -10,7 +10,7 @@
     * `Random_cvs.m`: Generates randomly redundances points for A
     
 
-- Figures: Figures included in Poster
+- Figures: Figures included in the poster
 
 To reproduce the experiments as they are in the poster, add the folder 'Functions' to MATLAB path and use the routine ArtigicialAVTA.m. 
 
