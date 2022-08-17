@@ -7,7 +7,7 @@
 - Functions: auxiliary functions used by ArtificialAVTA.m
     * `AVTA_?.m`: Solve the irredundance problem for each algorithm: Triangle Algorithm (TA) `ta_anti_warm.m`, Spherical Triangle (SPH)`Spherical_TA11.m`, Frank Wolfe (FW) `GreedyTriangleAlgorithmAVTA.m` and Away Step Frank Wolfe (ASFW) `AwayStepFrankWolfeAlgorithmAVTA.m`.
     * `Random_pts.m`: Generates A randomly according to a uniform distribution on the unit ball of Rm
-    * `Random_cvs.m`: Generates randomly redundances points for A
+    * `Random_cvs.m`: Generates randomly redundant points for A
     
 
 - Figures: Figures included in the poster
